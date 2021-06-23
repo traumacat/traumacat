@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @traumacat
+- 👀 I’m interested in data, UX and pizza
+- 🌱 I’m currently learning to manage my sleep pattern
+- 💞️ I’m looking to collaborate on design and linguistics, also compilers/assembly languages
+- 📫 How to reach me: audiothecat@gmail.com
